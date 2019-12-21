@@ -1,5 +1,5 @@
-# hashtag.io
-Hashtag.io is a PHP based social networking website, which supports exclusive multimedia content, sharing and private or group messaging service.
+# Facebook clone (forked from Subhajit25Mondal/hashtag.io)
+This is a PHP based social networking website, which supports exclusive multimedia content, sharing and private or group messaging service.
 
 # Quick Links
  1. [Screenshots](#screenshots)
